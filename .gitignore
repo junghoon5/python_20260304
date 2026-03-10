@@ -5,5 +5,5 @@ anaconda_projects/
 *.zip
 *.xlsx
 
-**.idea/
-**__pycache_/
+**/.idea/
+**/__pycache_/
